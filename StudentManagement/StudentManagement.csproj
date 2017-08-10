@@ -107,7 +107,6 @@
     <Content Include="studentPanel.aspx" />
     <Content Include="teacherLogin.aspx" />
     <Content Include="teacherPanel.aspx" />
-    <Content Include="managementSelection.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -197,13 +196,6 @@
     </Compile>
     <Compile Include="teacherPanel.aspx.designer.cs">
       <DependentUpon>teacherPanel.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="managementSelection.aspx.cs">
-      <DependentUpon>managementSelection.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="managementSelection.aspx.designer.cs">
-      <DependentUpon>managementSelection.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
