@@ -1,5 +1,5 @@
 # Student Management System
-***
+
 Student management system, as the name indicates will be used for managing student’s records which will be used for various purposes. Accepting correct data including Students personal details, Course details, Academic details etc. will results in generating the output in correct format without any delay. Student Management Systems are a common service in today’s society. It increases the operating efficiency of any modern educational institution manifold.
 
 ## Development and Resources
