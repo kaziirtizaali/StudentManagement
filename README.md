@@ -4,16 +4,16 @@ Student management system, as the name indicates will be used for managing stude
 
 ## Development and Resources
 This is a dynamic website which is developed by using the following web technologies.
-### For Front-End Design:
+#### For Front-End Design:
 * HTML
 * CSS
 * Bootstrap
 * Materialize CSS
 * JavaScript
- ### For Back-End Dvelopment:
+ #### For Back-End Dvelopment:
  * C# 
  * SQL Server
- ### Tools / Framework:
+ #### Tools / Framework:
 * Microsoft Visual Studio
 * ASP.NET
 * SQL Server Management Studio
